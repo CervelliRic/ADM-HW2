@@ -22,5 +22,13 @@ For this homework we used a dataset from :
 
 This is the jupyter file, where you can check our results, our opinions, our plots and graphs, and the conclusions about this work.
 
+### RQ5.ipynb
+
+### CRQ1.ipynb
+
 ### Maps.html
 There are also three maps, html format in which is possible  to  see the correlation between pick-up,drop-of and the concentration of these in NYC.
+
+### hist_price_mile.html/hist_p_mile_time.html
+
+The graphs about the analisys of the price of taxis in New York
