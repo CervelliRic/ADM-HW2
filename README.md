@@ -4,7 +4,7 @@ In this assignment we perform an analysis of Taxis in NYC. In particular, we are
 
 For this purpose we use the open data of Taxi's trips in NYC. In order to answer to the RQs we take into account the data related to Yellow cab for the year 2018.
 
-# homework2aris
+# ADM-HW2
 This is the jupyter file where you can check our results, our opinions, our plot, and the conclusions about this work.
 
 # Maps.html
