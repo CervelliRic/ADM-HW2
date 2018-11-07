@@ -6,15 +6,15 @@ In this assignment we perform an analysis of Taxis in NYC. In particular, we are
 
 For this purpose we use the open data of Taxi's trips in NYC. In order to answer to the RQs we take into account the data related to Yellow cab for the year 2018.
 
-For this homework we used a dataset from :[TLC Trip Record Data NYC] (http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
+For this homework we used a dataset from : 
+[TLC Trip Record Data NYC](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)
+
 - [yellow_tripdata_2018-01.csv](https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2018-01.csv)
 - [yellow_tripdata_2018-02.csv](https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2018-02.csv)
 - [yellow_tripdata_2018-03.csv](https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2018-03.csv)
 - [yellow_tripdata_2018-04.csv](https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2018-04.csv)
 - [yellow_tripdata_2018-05.csv](https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2018-05.csv)
 - [yellow_tripdata_2018-06.csv](https://s3.amazonaws.com/nyc-tlc/trip+data/yellow_tripdata_2018-06.csv)
-
-
 
 ## In this repository you can find...
 
@@ -24,7 +24,3 @@ This is the jupyter file, where you can check our results, our opinions, our plo
 
 ### Maps.html
 There are also three maps, html format in which is possible  to  see the correlation between pick-up,drop-of and the concentration of these in NYC.
-
-
-
-
